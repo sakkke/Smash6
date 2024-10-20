@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bfbdf0ad435014ea07101ec3405358, type: 3}
+  m_Name: Dystopian cyberpunk
+  m_EditorClassIdentifier: 
+  _id: 12224607
+  _obfuscatedId: d4905a485f935a8011cc4bcd00485f4b
+  _skyboxStyleId: 147
+  _skyboxStyleName: M3 Detailed Render
+  _type: skybox
+  _depthMaterial: {fileID: 2100000, guid: 5cbc9bf614d0f133d9ef895f7fb1612b, type: 2}
+  _skyboxMaterial: {fileID: 2100000, guid: 33efcb56ad67434c7a1164d93644126d, type: 2}
+  _depthTexture: {fileID: 2800000, guid: e6d7a814b837a6a8ab3d9ace7aa9accf, type: 3}
+  _skyboxTexture: {fileID: 8900000, guid: d59e9beea29269731aa12059485b5bd3, type: 3}
+  _prompt: Dystopian cyberpunk megacity, towering neon-lit skyscrapers, dark polluted
+    sky, flying vehicles, holographic billboards, industrial smog, distant spaceships,
+    glowing energy grids, rain-slicked streets, futuristic architecture, sprawling
+    urban landscape, neon reflections, cybernetic enhancements, high-tech surveillance
+    drones
+  _negativeText: Daytime, bright, cheerful, natural, trees, grass, clear sky, sunshine,
+    blue sky, clouds, birds, people, animals, water, ocean, beach, mountains, rural,
+    suburban, historical buildings, traditional architecture, warm colors, pastoral
+    scenes, blurry, low quality, deformed, distorted, unrealistic proportions
+  _model: 3

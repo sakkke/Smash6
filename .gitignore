@@ -72,8 +72,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Assets
-/[Aa]ssets/Blockade Labs SDK/
+/[Aa]ssets/Blockade Labs SDK/*
 /[Aa]ssets/Blockade Labs SDK.meta
+!/[Aa]ssets/Blockade Labs SDK/Dystopian cyberpunk/
+!/[Aa]ssets/Blockade Labs SDK/Dystopian cyberpunk.meta
 /[Aa]ssets/TextMesh Pro/
 /[Aa]ssets/TextMesh Pro.meta
 
