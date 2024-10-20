@@ -71,5 +71,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Assets
+/[Aa]ssets/Blockade Labs SDK/
+/[Aa]ssets/Blockade Labs SDK.meta
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/TextMesh Pro.meta
+
 # Packages
 /[Pp]ackages/com.blockadelabs.sdk/
